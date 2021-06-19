@@ -1,0 +1,82 @@
+*
+{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body
+{
+	background-image:url('IMG/logo.jpg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:top right;
+	background-size:15%
+
+}
+#logo2
+{
+	float:left;
+	height:170px;
+}
+header p
+{
+	text-shadow:4px 9px 9px;
+	font-size:4vh;
+	padding:3vh;
+	padding-right:200px;
+
+}
+#main
+{
+	background-color:lightgray;
+}
+.middle
+{
+	font-size:20px;
+	color:black;
+	font-weight:bold;
+	padding:2vh;
+}
+a
+{
+	text-decoration:none;
+}
+button:hover
+{
+   	background-color:pink;
+    color:white;
+    font-size:20px;
+}
+h2
+{
+	text-align:center;
+	color:black;
+	padding:3vh;
+	font-weight:bold;
+}
+h3
+{
+	padding:3vh;
+	font-size:25px;
+	color:brown;
+}
+button
+{
+	height:30px;
+	width:400px;
+	background-color:yellow;
+	color:white;
+	border-radius:20px;
+	padding:2px 0px 2px 0px;
+}
+footer
+{
+	margin-top:0px;
+	background-color:black;
+	color:white;
+}
+footer p
+{
+	text-align:center;
+	padding:2vh;
+}
