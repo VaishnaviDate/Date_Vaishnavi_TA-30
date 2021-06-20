@@ -5,15 +5,12 @@
 	box-sizing:border-box;
 }	
 
-tbody
+#t1
 {
 	text-shadow:4px 8px 8px;
 	font-size:20px;
 }
-#main
-{
-	background-color:lightgray;
-}
+
 .middle
 {
 	font-size:20px;
