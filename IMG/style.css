@@ -8,7 +8,8 @@
 #t1
 {
 	text-shadow:4px 8px 8px;
-	font-size:20px;
+	font-size:15px;
+	padding:2vh;
 }
 
 .middle
@@ -28,14 +29,14 @@ button:hover
     color:white;
     font-size:20px;
 }
-h2
+#head1
 {
 	text-align:center;
 	color:black;
 	padding:3vh;
 	font-weight:bold;
 }
-h3
+#head2
 {
 	padding:3vh;
 	font-size:25px;
