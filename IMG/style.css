@@ -29,19 +29,7 @@ button:hover
     color:white;
     font-size:20px;
 }
-#head1
-{
-	text-align:center;
-	color:black;
-	padding:3vh;
-	font-weight:bold;
-}
-#head2
-{
-	padding:3vh;
-	font-size:25px;
-	color:brown;
-}
+
 button
 {
 	height:30px;
